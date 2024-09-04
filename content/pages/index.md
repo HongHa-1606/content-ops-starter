@@ -286,7 +286,7 @@ sections:
     subtitle: Section with a video subtitle
     text: >
       Điện toán đám mây là một thuật ngữ tổng quát dành cho bất kỳ thứ gì liên
-      quan đến hoạt động phân phối tài nguyên máy tính qua Internet. N
+      quan đến hoạt động phân phối tài nguyên máy tính qua Internet. 
     actions: []
     media:
       title: Title of the video
