@@ -317,7 +317,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: PASS
+      text: NELIFY
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
