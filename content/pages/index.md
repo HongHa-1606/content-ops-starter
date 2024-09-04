@@ -284,11 +284,9 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Điện toán đám mây là một thuật ngữ tổng quát dành cho bất kỳ thứ gì liên
+      quan đến hoạt động phân phối tài nguyên máy tính qua Internet. N
     actions: []
     media:
       title: Title of the video
