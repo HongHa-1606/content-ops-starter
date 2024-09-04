@@ -228,7 +228,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Sách là nguồn sống
+      text: Ảo hóa
       color: text-dark
       styles:
         self:
