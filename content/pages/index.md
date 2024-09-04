@@ -277,7 +277,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Điện tính đám mây
+      text: Điện toán đám mây
       color: text-dark
       styles:
         self:
