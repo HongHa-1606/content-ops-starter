@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Hồng Hà
+      text: Chào bạn đến thế giới của tôi
       color: text-dark
       type: TitleBlock
     subtitle: ''
