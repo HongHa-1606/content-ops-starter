@@ -317,7 +317,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: PASS
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
